@@ -1,6 +1,6 @@
 # Consulta a una Api desdde Android | Kotlin | POO - Arquitectura MVVM
 
-![Interfaz](https://github.com/VictorDamian/Api-en-Android-MVVM/blob/master/img/file.png)
+![Interfaz](https://github.com/VictorDamian/Api-en-Android-MVVM/blob/master/img/file.jpg)
 
 ## Estructura del proyecto
 ![Interfaz](https://github.com/VictorDamian/Api-en-Android-MVVM/blob/master/img/struct.png)
