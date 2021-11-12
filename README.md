@@ -1,4 +1,4 @@
-# Consulta a una Api desdde Android | Kotlin | POO - Arquitectura MVVM
+# Consulta a una Api desde Android | Kotlin | POO - Arquitectura MVVM
 
 ![Interfaz](https://github.com/VictorDamian/Api-en-Android-MVVM/blob/master/img/file.jpg)
 
